@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a0hoZx2QOUWDgmQnLHfXcp3JpCzE8hwT/sCbNYxyFkc=",
+  "Source": "VehicleFinderBackend",
+  "BasePath": "_content/VehicleFinderBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
